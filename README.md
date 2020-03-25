@@ -1,2 +1,3 @@
 # hello-world
-tutorial repository
+
+2020.03.25 | Hi! I'm W.
